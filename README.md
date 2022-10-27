@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Java-Boy081
-- 👀 I’m interested in learning how to code an app
-- 🌱 I’m currently learning Javascript
-- 🏗️ If anyone can give me a project idea, Thank you!
+- 👀 I’m interested in learning how to Positive-Hack
+- 🌱 I’m currently learning Python
